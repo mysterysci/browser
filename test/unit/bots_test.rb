@@ -23,6 +23,13 @@ class BotsTest < Minitest::Test
       TINEYE
       YANDEX_DIRECT
       YANDEX_METRIKA
+      PLEASE_BOT
+      CRAWLDADDY_BOT
+      ADV_BOT
+      BDC_BOT
+      BING_BOT
+      BLEKKO_BOT
+      CATCH_BOT
     ].each do |key|
       @browser.ua = $ua[key]
       assert @browser.bot?, "#{$ua[key]} should be a bot"

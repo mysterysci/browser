@@ -120,3 +120,11 @@ YAHOO_SLURP: 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/
 YANDEX_BROWSER: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 YaBrowser/15.4.2272.3909 (beta) Yowser/2.0 Safari/537.36'
 YANDEX_DIRECT: 'Mozilla/5.0 (compatible; YandexDirect/3.0; +http://yandex.com/bots)'
 YANDEX_METRIKA: 'Mozilla/5.0 (compatible; YandexMetrika/3.0; +http://yandex.com/bots)'
+
+PLEASE_BOT: 'Mozilla/5.0 (compatible; 200PleaseBot/1.0; +http://www.200please.com/bot)'
+CRAWLDADDY_BOT: 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; CrawlDaddy v0.3.0 abot v1.2.0.0 http://code.google.com/p/abot)'
+ADV_BOT: 'Mozilla/5.0 (compatible; AdvBot/2.0; +http://advbot.net/bot.html)'
+BDC_BOT: 'Mozilla/5.0 (compatible; BDCbot/1.0; +http://ecommerce.bigdatacorp.com.br/faq.aspx)'
+BING_BOT: 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)'
+BLEKKO_BOT: 'Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)'
+CATCH_BOT: 'CatchBot/2.0; +http://www.catchbot.com'
